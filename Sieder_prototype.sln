@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sieder_prototype", "Sieder_prototype\Sieder_prototype.vcxproj", "{4FF2F0AC-4F7C-414C-B61A-C478C59CC680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF2F0AC-4F7C-414C-B61A-C478C59CC680}.Debug|x64.ActiveCfg = Debug|x64
+		{4FF2F0AC-4F7C-414C-B61A-C478C59CC680}.Debug|x64.Build.0 = Debug|x64
+		{4FF2F0AC-4F7C-414C-B61A-C478C59CC680}.Release|x64.ActiveCfg = Release|x64
+		{4FF2F0AC-4F7C-414C-B61A-C478C59CC680}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2DC023-84A3-499E-8DC0-8FB07FF67AD7}
+	EndGlobalSection
+EndGlobal
